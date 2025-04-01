@@ -7,16 +7,16 @@ function projetos(section) {
         
       
       <div class="card">
-          <h3>Aguarde...</h3>
+          <h3>Figma Land</h3>
           <div class="img-wrapper">
             <img
-              src="./assets/images/projects/loading.gif"
-              alt="GIF do projeto."
+              src="./assets/images/projects/Figmaland.png"
+              alt="Imagem do projeto."
             />
 
             
             <div class="buttons">
-              <a href="https://github.com/" target="_blank" title="Repositório no Github">
+              <a href="https://github.com/dev-ley/Site-FigmaLand" target="_blank" title="Repositório no Github">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -30,7 +30,7 @@ function projetos(section) {
                   />
                 </svg>
               </a>
-              <a href="https://LINKDOPROJETO" target="_blank" title="Ver Projeto">
+              <a href="https://my-app-teal-eight-51.vercel.app/" target="_blank" title="Ver Projeto">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -46,9 +46,9 @@ function projetos(section) {
             </div>
           </div>
           <p>
-            DESCRICAO
+           Um site responsivo desenvolvido com Next.js e Tailwind CSS, projetado para oferecer uma experiência rápida, acessível e moderna.
           </p>
-          <p>HTML - CSS - JS - NodeJS - Express - SQLite</p>
+          <p> Typescript - React - NextJs - TailWind - Figma </p>
         </div>
 
       <div class="card">
