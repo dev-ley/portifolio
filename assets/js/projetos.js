@@ -7,6 +7,52 @@ function projetos(section) {
         
       
       <div class="card">
+          <h3>Pokedex</h3>
+          <div class="img-wrapper">
+            <img
+              src="./assets/images/projects/Pokedex.png"
+              alt="Imagem do projeto."
+            />
+
+            
+            <div class="buttons">
+              <a href="https://github.com/dev-ley/Pokedex" target="_blank" title="Repositório no Github">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 24 24"
+                  width="24"
+                  height="24"
+                >
+                  <path fill="none" d="M0 0h24v24H0z" />
+                  <path
+                    d="M12 2C6.475 2 2 6.475 2 12a9.994 9.994 0 0 0 6.838 9.488c.5.087.687-.213.687-.476 0-.237-.013-1.024-.013-1.862-2.512.463-3.162-.612-3.362-1.175-.113-.288-.6-1.175-1.025-1.413-.35-.187-.85-.65-.013-.662.788-.013 1.35.725 1.538 1.025.9 1.512 2.338 1.087 2.912.825.088-.65.35-1.087.638-1.337-2.225-.25-4.55-1.113-4.55-4.938 0-1.088.387-1.987 1.025-2.688-.1-.25-.45-1.275.1-2.65 0 0 .837-.262 2.75 1.026a9.28 9.28 0 0 1 2.5-.338c.85 0 1.7.112 2.5.337 1.912-1.3 2.75-1.024 2.75-1.024.55 1.375.2 2.4.1 2.65.637.7 1.025 1.587 1.025 2.687 0 3.838-2.337 4.688-4.562 4.938.362.312.675.912.675 1.85 0 1.337-.013 2.412-.013 2.75 0 .262.188.574.688.474A10.016 10.016 0 0 0 22 12c0-5.525-4.475-10-10-10z"
+                    fill="rgba(255,255,255,1)"
+                  />
+                </svg>
+              </a>
+              <a href="https://pokedex-six-zeta.vercel.app/" target="_blank" title="Ver Projeto">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 24 24"
+                  width="24"
+                  height="24"
+                >
+                  <path fill="none" d="M0 0h24v24H0z" />
+                  <path
+                    d="M12 3c5.392 0 9.878 3.88 10.819 9-.94 5.12-5.427 9-10.819 9-5.392 0-9.878-3.88-10.819-9C2.121 6.88 6.608 3 12 3zm0 16a9.005 9.005 0 0 0 8.777-7 9.005 9.005 0 0 0-17.554 0A9.005 9.005 0 0 0 12 19zm0-2.5a4.5 4.5 0 1 1 0-9 4.5 4.5 0 0 1 0 9zm0-2a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5z"
+                  />
+                </svg>
+              </a>
+            </div>
+          </div>
+          <p>
+Listagem de Pokémon: Navegue por uma lista de Pokémon com funcionalidade de rolagem infinita. Filtrar Pokémon por nome, ID, tipo e espécie. <br>
+Suporte Multilíngue: O aplicativo suporta vários idiomas, incluindo Português, Inglês e Espanhol, conforme fornecido pela PokeAPI. <br>
+Cartões Detalhados de Pokémon: Veja informações detalhadas sobre cada Pokémon, incluindo todos os sprites, golpes de ataque, cadeia de evolução e os jogos em que o Pokémon aparece.          </p>
+          <p> HTML5 - JavaScript - Vue.js - Bootstrap - PokeAPI  </p>
+        </div>
+
+      <div class="card">
           <h3>Figma Land</h3>
           <div class="img-wrapper">
             <img
@@ -232,7 +278,234 @@ function projetos(section) {
         </div>
 
               <div class="card">
-          <h3>Aguarde...</h3>
+          <h3>Lista de Compras</h3>
+          <div class="img-wrapper">
+            <img
+              src="./assets/images/projects/listadecompras.gif"
+              alt="GIF do projeto."
+            />
+
+            
+            <div class="buttons">
+              <a href="https://github.com/dev-ley/Lista-de-Compras" target="_blank" title="Repositório no Github">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 24 24"
+                  width="24"
+                  height="24"
+                >
+                  <path fill="none" d="M0 0h24v24H0z" />
+                  <path
+                    d="M12 2C6.475 2 2 6.475 2 12a9.994 9.994 0 0 0 6.838 9.488c.5.087.687-.213.687-.476 0-.237-.013-1.024-.013-1.862-2.512.463-3.162-.612-3.362-1.175-.113-.288-.6-1.175-1.025-1.413-.35-.187-.85-.65-.013-.662.788-.013 1.35.725 1.538 1.025.9 1.512 2.338 1.087 2.912.825.088-.65.35-1.087.638-1.337-2.225-.25-4.55-1.113-4.55-4.938 0-1.088.387-1.987 1.025-2.688-.1-.25-.45-1.275.1-2.65 0 0 .837-.262 2.75 1.026a9.28 9.28 0 0 1 2.5-.338c.85 0 1.7.112 2.5.337 1.912-1.3 2.75-1.024 2.75-1.024.55 1.375.2 2.4.1 2.65.637.7 1.025 1.587 1.025 2.687 0 3.838-2.337 4.688-4.562 4.938.362.312.675.912.675 1.85 0 1.337-.013 2.412-.013 2.75 0 .262.188.574.688.474A10.016 10.016 0 0 0 22 12c0-5.525-4.475-10-10-10z"
+                    fill="rgba(255,255,255,1)"
+                  />
+                </svg>
+              </a>
+              <a href="https://lista-de-compras-tau-ecru.vercel.app/" target="_blank" title="Ver Projeto">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 24 24"
+                  width="24"
+                  height="24"
+                >
+                  <path fill="none" d="M0 0h24v24H0z" />
+                  <path
+                    d="M12 3c5.392 0 9.878 3.88 10.819 9-.94 5.12-5.427 9-10.819 9-5.392 0-9.878-3.88-10.819-9C2.121 6.88 6.608 3 12 3zm0 16a9.005 9.005 0 0 0 8.777-7 9.005 9.005 0 0 0-17.554 0A9.005 9.005 0 0 0 12 19zm0-2.5a4.5 4.5 0 1 1 0-9 4.5 4.5 0 0 1 0 9zm0-2a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5z"
+                  />
+                </svg>
+              </a>
+            </div>
+          </div>
+          <p>
+            A aplicação permite inserir itens em uma lista de forma dinâmica, permitindo a exclusão e edição dos mesmos. Os itens terão o nome e também a data e horário que foram criados. Também é possível selecionar um checkbox para informar que o item foi comprado.
+          </p>
+          <p>HTML - CSS - JS </p>
+        </div>
+   
+              <div class="card">
+          <h3>Newsletter-TailWind</h3>
+          <div class="img-wrapper">
+            <img
+              src="./assets/images/projects/Newslater.png"
+              alt="Imagem do projeto."
+            />
+
+            
+            <div class="buttons">
+              <a href="https://github.com/dev-ley/Newsletter-TailWind" target="_blank" title="Repositório no Github">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 24 24"
+                  width="24"
+                  height="24"
+                >
+                  <path fill="none" d="M0 0h24v24H0z" />
+                  <path
+                    d="M12 2C6.475 2 2 6.475 2 12a9.994 9.994 0 0 0 6.838 9.488c.5.087.687-.213.687-.476 0-.237-.013-1.024-.013-1.862-2.512.463-3.162-.612-3.362-1.175-.113-.288-.6-1.175-1.025-1.413-.35-.187-.85-.65-.013-.662.788-.013 1.35.725 1.538 1.025.9 1.512 2.338 1.087 2.912.825.088-.65.35-1.087.638-1.337-2.225-.25-4.55-1.113-4.55-4.938 0-1.088.387-1.987 1.025-2.688-.1-.25-.45-1.275.1-2.65 0 0 .837-.262 2.75 1.026a9.28 9.28 0 0 1 2.5-.338c.85 0 1.7.112 2.5.337 1.912-1.3 2.75-1.024 2.75-1.024.55 1.375.2 2.4.1 2.65.637.7 1.025 1.587 1.025 2.687 0 3.838-2.337 4.688-4.562 4.938.362.312.675.912.675 1.85 0 1.337-.013 2.412-.013 2.75 0 .262.188.574.688.474A10.016 10.016 0 0 0 22 12c0-5.525-4.475-10-10-10z"
+                    fill="rgba(255,255,255,1)"
+                  />
+                </svg>
+              </a>
+              <a href="https://newsletter-tail-wind.vercel.app/" target="_blank" title="Ver Projeto">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 24 24"
+                  width="24"
+                  height="24"
+                >
+                  <path fill="none" d="M0 0h24v24H0z" />
+                  <path
+                    d="M12 3c5.392 0 9.878 3.88 10.819 9-.94 5.12-5.427 9-10.819 9-5.392 0-9.878-3.88-10.819-9C2.121 6.88 6.608 3 12 3zm0 16a9.005 9.005 0 0 0 8.777-7 9.005 9.005 0 0 0-17.554 0A9.005 9.005 0 0 0 12 19zm0-2.5a4.5 4.5 0 1 1 0-9 4.5 4.5 0 0 1 0 9zm0-2a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5z"
+                  />
+                </svg>
+              </a>
+            </div>
+          </div>
+          <p>
+            Este projeto é uma simulação de uma página de inscrição para uma newsletter que tem como objetivo fornecer informações e novidades sobre o universo tech. Ele foi desenvolvido com foco na simplicidade e modernidade, utilizando HTML para estruturar o conteúdo e Tailwind CSS para estilização, garantindo um design responsivo e atraente.
+          </p>
+          <p>HTML - Tailwind CSS</p>
+        </div>
+   
+              <div class="card">
+          <h3>StoreBooks - E-commerce de Livros</h3>
+          <div class="img-wrapper">
+            <img
+              src="./assets/images/projects/storebooks.png"
+              alt="GIF do projeto."
+            />
+
+            
+            <div class="buttons">
+              <a href="https://github.com/dev-ley/StoreBooks" target="_blank" title="Repositório no Github">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 24 24"
+                  width="24"
+                  height="24"
+                >
+                  <path fill="none" d="M0 0h24v24H0z" />
+                  <path
+                    d="M12 2C6.475 2 2 6.475 2 12a9.994 9.994 0 0 0 6.838 9.488c.5.087.687-.213.687-.476 0-.237-.013-1.024-.013-1.862-2.512.463-3.162-.612-3.362-1.175-.113-.288-.6-1.175-1.025-1.413-.35-.187-.85-.65-.013-.662.788-.013 1.35.725 1.538 1.025.9 1.512 2.338 1.087 2.912.825.088-.65.35-1.087.638-1.337-2.225-.25-4.55-1.113-4.55-4.938 0-1.088.387-1.987 1.025-2.688-.1-.25-.45-1.275.1-2.65 0 0 .837-.262 2.75 1.026a9.28 9.28 0 0 1 2.5-.338c.85 0 1.7.112 2.5.337 1.912-1.3 2.75-1.024 2.75-1.024.55 1.375.2 2.4.1 2.65.637.7 1.025 1.587 1.025 2.687 0 3.838-2.337 4.688-4.562 4.938.362.312.675.912.675 1.85 0 1.337-.013 2.412-.013 2.75 0 .262.188.574.688.474A10.016 10.016 0 0 0 22 12c0-5.525-4.475-10-10-10z"
+                    fill="rgba(255,255,255,1)"
+                  />
+                </svg>
+              </a>
+              <a href="https://store-books-theta.vercel.app/" target="_blank" title="Ver Projeto">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 24 24"
+                  width="24"
+                  height="24"
+                >
+                  <path fill="none" d="M0 0h24v24H0z" />
+                  <path
+                    d="M12 3c5.392 0 9.878 3.88 10.819 9-.94 5.12-5.427 9-10.819 9-5.392 0-9.878-3.88-10.819-9C2.121 6.88 6.608 3 12 3zm0 16a9.005 9.005 0 0 0 8.777-7 9.005 9.005 0 0 0-17.554 0A9.005 9.005 0 0 0 12 19zm0-2.5a4.5 4.5 0 1 1 0-9 4.5 4.5 0 0 1 0 9zm0-2a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5z"
+                  />
+                </svg>
+              </a>
+            </div>
+          </div>
+          <p>
+            StoreBooks é uma livraria online dedicada a livros sobre tecnologia, oferecendo uma navegação simples e interativa. O site foi desenvolvido com tecnologias web clássicas, proporcionando uma experiência limpa e eficaz.
+          </p>
+          <p>HTML - CSS - JS - SwiperJS</p>
+        </div>
+   
+              <div class="card">
+          <h3>ReactFilmes </h3>
+          <div class="img-wrapper">
+            <img
+              src="./assets/images/projects/reactfilmes.png"
+              alt="GIF do projeto."
+            />
+
+            
+            <div class="buttons">
+              <a href="https://github.com/dev-ley/ReactFilmes" target="_blank" title="Repositório no Github">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 24 24"
+                  width="24"
+                  height="24"
+                >
+                  <path fill="none" d="M0 0h24v24H0z" />
+                  <path
+                    d="M12 2C6.475 2 2 6.475 2 12a9.994 9.994 0 0 0 6.838 9.488c.5.087.687-.213.687-.476 0-.237-.013-1.024-.013-1.862-2.512.463-3.162-.612-3.362-1.175-.113-.288-.6-1.175-1.025-1.413-.35-.187-.85-.65-.013-.662.788-.013 1.35.725 1.538 1.025.9 1.512 2.338 1.087 2.912.825.088-.65.35-1.087.638-1.337-2.225-.25-4.55-1.113-4.55-4.938 0-1.088.387-1.987 1.025-2.688-.1-.25-.45-1.275.1-2.65 0 0 .837-.262 2.75 1.026a9.28 9.28 0 0 1 2.5-.338c.85 0 1.7.112 2.5.337 1.912-1.3 2.75-1.024 2.75-1.024.55 1.375.2 2.4.1 2.65.637.7 1.025 1.587 1.025 2.687 0 3.838-2.337 4.688-4.562 4.938.362.312.675.912.675 1.85 0 1.337-.013 2.412-.013 2.75 0 .262.188.574.688.474A10.016 10.016 0 0 0 22 12c0-5.525-4.475-10-10-10z"
+                    fill="rgba(255,255,255,1)"
+                  />
+                </svg>
+              </a>
+              <a href="https://react-filmes-lyart.vercel.app/" target="_blank" title="Ver Projeto">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 24 24"
+                  width="24"
+                  height="24"
+                >
+                  <path fill="none" d="M0 0h24v24H0z" />
+                  <path
+                    d="M12 3c5.392 0 9.878 3.88 10.819 9-.94 5.12-5.427 9-10.819 9-5.392 0-9.878-3.88-10.819-9C2.121 6.88 6.608 3 12 3zm0 16a9.005 9.005 0 0 0 8.777-7 9.005 9.005 0 0 0-17.554 0A9.005 9.005 0 0 0 12 19zm0-2.5a4.5 4.5 0 1 1 0-9 4.5 4.5 0 0 1 0 9zm0-2a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5z"
+                  />
+                </svg>
+              </a>
+            </div>
+          </div>
+          <p>
+            O projeto ReactFilmes é uma aplicação desenvolvida em ReactJS que utiliza a API TMDB para apresentar informações sobre filmes. Além disso, o projeto incorpora funcionalidades de reconhecimento de voz para uma experiência mais interativa.
+          </p>
+          <p>HTML - CSS - JS - NodeJS - Express - React - API REST</p>
+        </div>
+   
+              <div class="card">
+          <h3>whitepace</h3>
+          <div class="img-wrapper">
+            <img
+              src="./assets/images/projects/whitepace.png"
+              alt="Imagem do projeto."
+            />
+
+            
+            <div class="buttons">
+              <a href="https://github.com/dev-ley/Landingpage-whitepace" target="_blank" title="Repositório no Github">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 24 24"
+                  width="24"
+                  height="24"
+                >
+                  <path fill="none" d="M0 0h24v24H0z" />
+                  <path
+                    d="M12 2C6.475 2 2 6.475 2 12a9.994 9.994 0 0 0 6.838 9.488c.5.087.687-.213.687-.476 0-.237-.013-1.024-.013-1.862-2.512.463-3.162-.612-3.362-1.175-.113-.288-.6-1.175-1.025-1.413-.35-.187-.85-.65-.013-.662.788-.013 1.35.725 1.538 1.025.9 1.512 2.338 1.087 2.912.825.088-.65.35-1.087.638-1.337-2.225-.25-4.55-1.113-4.55-4.938 0-1.088.387-1.987 1.025-2.688-.1-.25-.45-1.275.1-2.65 0 0 .837-.262 2.75 1.026a9.28 9.28 0 0 1 2.5-.338c.85 0 1.7.112 2.5.337 1.912-1.3 2.75-1.024 2.75-1.024.55 1.375.2 2.4.1 2.65.637.7 1.025 1.587 1.025 2.687 0 3.838-2.337 4.688-4.562 4.938.362.312.675.912.675 1.85 0 1.337-.013 2.412-.013 2.75 0 .262.188.574.688.474A10.016 10.016 0 0 0 22 12c0-5.525-4.475-10-10-10z"
+                    fill="rgba(255,255,255,1)"
+                  />
+                </svg>
+              </a>
+              <a href="https://landingpage-whitepace.vercel.app/" target="_blank" title="Ver Projeto">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 24 24"
+                  width="24"
+                  height="24"
+                >
+                  <path fill="none" d="M0 0h24v24H0z" />
+                  <path
+                    d="M12 3c5.392 0 9.878 3.88 10.819 9-.94 5.12-5.427 9-10.819 9-5.392 0-9.878-3.88-10.819-9C2.121 6.88 6.608 3 12 3zm0 16a9.005 9.005 0 0 0 8.777-7 9.005 9.005 0 0 0-17.554 0A9.005 9.005 0 0 0 12 19zm0-2.5a4.5 4.5 0 1 1 0-9 4.5 4.5 0 0 1 0 9zm0-2a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5z"
+                  />
+                </svg>
+              </a>
+            </div>
+          </div>
+          <p>
+Este projeto representa a convergência de design moderno e funcionalidade avançada em um site responsivo e interativo. Abaixo estão os principais recursos implementados:
+
+Recursos Principais <br> 1. Menu Responsivo - 2. Área de Cadastro - 3. Utilização de JSON para Elementos Dinâmicos
+</p>
+          <p>HTML - CSS - JS - API de Busca de CEP - Validação de CPF - JSON</p>
+        </div>
+   
+              <div class="card">
+          <h3>aguarde... </h3>
           <div class="img-wrapper">
             <img
               src="./assets/images/projects/loading.gif"
@@ -255,7 +528,7 @@ function projetos(section) {
                   />
                 </svg>
               </a>
-              <a href="https://LINKDOPROJETO" target="_blank" title="Ver Projeto">
+              <a href="LINKDOSITE" target="_blank" title="Ver Projeto">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -273,7 +546,7 @@ function projetos(section) {
           <p>
             DESCRICAO
           </p>
-          <p>HTML - CSS - JS - NodeJS - Express - SQLite</p>
+          <p>HTML - CSS - JS - NodeJS - Express - React - API REST</p>
         </div>
    
         <div class="card">
