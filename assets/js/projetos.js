@@ -52,16 +52,16 @@ function projetos(section) {
         </div>
 
       <div class="card">
-          <h3>Aguarde...</h3>
+          <h3>Serenatto Café & Bistrô</h3>
           <div class="img-wrapper">
             <img
-              src="./assets/images/projects/loading.gif"
-              alt="GIF do projeto."
+              src="./assets/images/projects/Serenatto.png"
+              alt="Imagem do projeto"
             />
 
             
             <div class="buttons">
-              <a href="https://github.com/" target="_blank" title="Repositório no Github">
+              <a href="https://github.com/dev-ley/Cafe-e-Bistro" target="_blank" title="Repositório no Github">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -75,7 +75,7 @@ function projetos(section) {
                   />
                 </svg>
               </a>
-              <a href="https://LINKDOPROJETO" target="_blank" title="Ver Projeto">
+              <a href="https://cafe-e-bistro.vercel.app/" target="_blank" title="Ver Projeto">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -91,22 +91,22 @@ function projetos(section) {
             </div>
           </div>
           <p>
-            DESCRICAO
+            Este projeto é um website que apresenta os serviços, produtos e informações de contato de uma cafeteria moderna e aconchegante.
           </p>
-          <p>HTML - CSS - JS - NodeJS - Express - SQLite</p>
+          <p> HTML - CSS - JS - Bootstrap 5</p>
         </div>
 
               <div class="card">
-          <h3>Aguarde...</h3>
+          <h3>Calmaria Spa</h3>
           <div class="img-wrapper">
             <img
-              src="./assets/images/projects/loading.gif"
+              src="./assets/images/projects/CalmariaSpa.png"
               alt="GIF do projeto."
             />
 
             
             <div class="buttons">
-              <a href="https://github.com/" target="_blank" title="Repositório no Github">
+              <a href="https://github.com/dev-ley/Calmaria-Spa" target="_blank" title="Repositório no Github">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -120,7 +120,7 @@ function projetos(section) {
                   />
                 </svg>
               </a>
-              <a href="https://LINKDOPROJETO" target="_blank" title="Ver Projeto">
+              <a href="https://calmaria-spa-ruby.vercel.app/" target="_blank" title="Ver Projeto">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -136,22 +136,22 @@ function projetos(section) {
             </div>
           </div>
           <p>
-            DESCRICAO
+            Uma aplicação para manipulação de elementos interativos como menu com submenus, modais e acordeão com foco em acessibilidade.
           </p>
-          <p>HTML - CSS - JS - NodeJS - Express - SQLite</p>
+          <p>HTML - CSS - JS - Figma </p>
         </div>
 
               <div class="card">
-          <h3>Aguarde...</h3>
+          <h3>Fokus</h3>
           <div class="img-wrapper">
             <img
-              src="./assets/images/projects/loading.gif"
-              alt="GIF do projeto."
+              src="./assets/images/projects/Fokus.png"
+              alt="Imagem do projeto."
             />
 
             
             <div class="buttons">
-              <a href="https://github.com/" target="_blank" title="Repositório no Github">
+              <a href="https://github.com/dev-ley/Fokus" target="_blank" title="Repositório no Github">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -165,7 +165,7 @@ function projetos(section) {
                   />
                 </svg>
               </a>
-              <a href="https://LINKDOPROJETO" target="_blank" title="Ver Projeto">
+              <a href="https://fokus-iota-orcin.vercel.app/" target="_blank" title="Ver Projeto">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -181,22 +181,22 @@ function projetos(section) {
             </div>
           </div>
           <p>
-            DESCRICAO
+            Fokus é uma aplicação focada em ajudar você a melhorar a produtividade, oferecendo uma combinação de cronômetro Pomodoro, gerenciamento de tarefas e a possibilidade de ouvir música enquanto trabalha. O projeto foi desenvolvido com o objetivo de otimizar o seu tempo e manter o foco nas tarefas mais importantes.
           </p>
-          <p>HTML - CSS - JS - NodeJS - Express - SQLite</p>
+          <p>HTML - CSS - JS - Modo Pomodoro - Controle de Música - Gerenciamento de Tarefas - Design Responsivo</p>
         </div>
 
               <div class="card">
-          <h3>Aguarde...</h3>
+          <h3>VidFlow</h3>
           <div class="img-wrapper">
             <img
-              src="./assets/images/projects/loading.gif"
-              alt="GIF do projeto."
+              src="./assets/images/projects/vidflow.png"
+              alt="imagem do projeto."
             />
 
             
             <div class="buttons">
-              <a href="https://github.com/" target="_blank" title="Repositório no Github">
+              <a href="https://github.com/dev-ley/VidFlow/blob/main/vidflow.png" target="_blank" title="Repositório no Github">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -210,7 +210,7 @@ function projetos(section) {
                   />
                 </svg>
               </a>
-              <a href="https://LINKDOPROJETO" target="_blank" title="Ver Projeto">
+              <a href="https://vid-flow-one-kappa.vercel.app/" target="_blank" title="Ver Projeto">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -226,9 +226,9 @@ function projetos(section) {
             </div>
           </div>
           <p>
-            DESCRICAO
+            O VidFlow é uma plataforma de compartilhamento de vídeos. Atualmente, o projeto base já está pronto: os vídeos são buscados de uma API, possui modo escuro e os botões interativos funcionam.
           </p>
-          <p>HTML - CSS - JS - NodeJS - Express - SQLite</p>
+          <p>HTML - CSS - JS - JSON Server</p>
         </div>
 
               <div class="card">
